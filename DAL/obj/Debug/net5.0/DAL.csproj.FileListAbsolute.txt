@@ -1,0 +1,12 @@
+F:\C# projects\MailingService\DAL\bin\Debug\net5.0\DAL.deps.json
+F:\C# projects\MailingService\DAL\bin\Debug\net5.0\DAL.dll
+F:\C# projects\MailingService\DAL\bin\Debug\net5.0\ref\DAL.dll
+F:\C# projects\MailingService\DAL\bin\Debug\net5.0\DAL.pdb
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.dll
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\ref\DAL.dll
+F:\C# projects\MailingService\DAL\obj\Debug\net5.0\DAL.pdb
